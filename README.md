@@ -1,3 +1,16 @@
+<!-- 
+
+Hi developer! 
+
+You can fill this readme for your own project. 
+Try to keep the root readme as short as possible. 
+Link to separate markdown files in /documentation for extensive information about a topic.
+
+Good luck!
+
+-->
+
+
 # The Hitchhikers Readme
 
 <!-- Describe where this readme is about.  -->
@@ -23,7 +36,6 @@ This is an opiniated readme template. Created for, inspired by & used in closed 
 
 <!-- 
    Which software or library's are needed to be able to install this project?
-   You can link to other markdown files in the `documentation` as well.
  -->
 
 - ...
@@ -40,9 +52,9 @@ This is an opiniated readme template. Created for, inspired by & used in closed 
 
 - ...
 
-### Deployment
+### Deployment / Release process 
 
-<!-- How to deploy it to an environment? -->
+<!-- How to deploy it to an environment or release it to an environment / store? -->
 
 - ...
 
