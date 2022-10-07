@@ -16,6 +16,7 @@ Good luck!
 <!-- Describe where this readme is about.  -->
 
 This is an opiniated readme template. Created for, inspired by & used in closed source projects of digital product studio [Q42](https://www.q42.nl/en).
+See also the [example readme's](/examples/) in this repo.
 
 ## ✨ See it in action ✨
 
